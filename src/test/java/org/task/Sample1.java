@@ -11,4 +11,11 @@ public class Sample1 {
 	private void tamil() {
 	    System.out.println("tamil");
 		}
+	
+	private void nan() {
+System.out.println("nan");
+	}
+	private void use() {
+		System.out.println("use");
+			}
 }
