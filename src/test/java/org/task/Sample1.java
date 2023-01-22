@@ -11,4 +11,10 @@ public class Sample1 {
 	private void tamil() {
 	    System.out.println("tamil");
 		}
+	private void karthi() {
+System.out.println("karthi");
+	}
+	private void sundar() {
+		System.out.println("sundar");
+			}
 }
